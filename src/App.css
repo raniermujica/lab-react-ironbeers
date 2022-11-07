@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+#nav-bar {
+  background-color: #FFEB9C;
+  margin-top: 0.5%;
+}
+
+#nav-bar img {
+  margin-top: 1%;
+  margin-bottom: 1%;
+}
+
+#section-list {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 5%;
+  margin-right: 10%;
+  margin-top: 8%;
+}
+
+#random-section {
+  margin-top: 8%;
+}
+
+.link-h2 {
+ text-decoration: none;
+}
+
+#form-style {
+  margin-top: 5%;
+}
